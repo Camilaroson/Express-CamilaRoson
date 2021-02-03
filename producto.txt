@@ -1,0 +1,1 @@
+[{"name":"televisor","precio":150,"imagen":"img","id":1},{"name":"computadora","precio":180,"imagen":"img","id":2},{"name":"cafetera","precio":120,"imagen":"img","id":3}]
